@@ -1,5 +1,3 @@
-YAHTZEE
-
 Para rodar as entregas da t4:
 
 Teste:
